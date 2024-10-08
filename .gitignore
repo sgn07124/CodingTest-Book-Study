@@ -15,6 +15,7 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
+src/코딩테스트로_합격자되기_자바편/**
 
 ### NetBeans ###
 /nbproject/private/
